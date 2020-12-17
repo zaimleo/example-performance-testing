@@ -1,0 +1,4 @@
+{
+    "NODE_ENV": "sandbox",
+    "API_URL": "http://sandbox-api-alb-1374135733.ap-southeast-1.elb.amazonaws.com"
+}

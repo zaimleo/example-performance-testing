@@ -1,0 +1,4 @@
+{
+    "NODE_ENV": "production",
+    "API_URL": "http://pulsifi-api-alb-1487582805.ap-southeast-1.elb.amazonaws.com"
+}
